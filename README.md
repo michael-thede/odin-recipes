@@ -9,4 +9,4 @@ readability.
 
 Credit to Bethany Cramer at asimplepalate.com/blog/lasagna-bolognese-with-ricotta/ for providing the recipe for the lasagna.
 
-Credit to my friends for providing me with personal recipes that they have, including the Monkey Bread and Butter Milk Pie.
+Credit to my friends for providing me with personal recipes that they have, including the Monkey Bread and Buttermilk Pie.
