@@ -1,0 +1,46 @@
+body {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+    background-color: rgb(134, 202, 202);
+}
+
+a {
+    color: rgb(22, 22, 119);
+    font-size: 30px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.separated {
+    font-size: 30px;
+    background-color: yellow;
+}
+
+em {
+    font-weight: bold;
+}
+
+p, ul, ol {
+    font-size: 20px;
+}
+
+strong{
+    color: rgb(122, 0, 0);
+}
+
+.return {
+    display: block;
+}
+
+.picture {
+    display: block;
+    margin: auto;
+}
